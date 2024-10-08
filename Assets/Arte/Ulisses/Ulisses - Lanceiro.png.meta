@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 2d7ea5c78e6fcd54a8c9c0504ce5ee58
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce98ea6a233736548b7ca4612809faed
+      internalID: -1204072716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 67.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476d549b12fa3d9418dae1d0fb58a773
+      internalID: 1783773119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 67.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842204174338b9b438cb41cc3c49f535
+      internalID: -1953227808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 67.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf083030ab8e0464bafce8b95d229bd3
+      internalID: 522125367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 67.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017f1831f239c364fbecaceea403adab
+      internalID: -677651178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 67.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c108fe4ce98bb247b102d93746a4d39
+      internalID: 1570961485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 67.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66275344b7fd434da090f6a65ba61f6
+      internalID: 421156097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 67.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca7512d8fcb22a47b8829119e543d56
+      internalID: -1894189145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f88acfd9bfa2a44818dcb902bd1a4e
+      internalID: -200359267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d329bc0d1ea3942a64973ee18d8fee
+      internalID: -1403393371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a39b9d1e0bd74790d1b4984750d2d
+      internalID: 272232760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9bf68b54740bf4da62e8e10955d0a7
+      internalID: 1451645816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5bdc0d64894aa4aadede6468ab8e8b
+      internalID: -1591953526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612dd626bcaea4f40b3af99cec532d5f
+      internalID: 172396067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab3272e44d9b2240ac5859603a76183
+      internalID: -1810843022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulisses - Lanceiro_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0.5
+        width: 64
+        height: 67.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af9a877ebf094c49a10e22287ecabb5
+      internalID: 1424190419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ulisses - Lanceiro_0: -1204072716
+      Ulisses - Lanceiro_1: 1783773119
+      Ulisses - Lanceiro_10: 272232760
+      Ulisses - Lanceiro_11: 1451645816
+      Ulisses - Lanceiro_12: -1591953526
+      Ulisses - Lanceiro_13: 172396067
+      Ulisses - Lanceiro_14: -1810843022
+      Ulisses - Lanceiro_15: 1424190419
+      Ulisses - Lanceiro_2: -1953227808
+      Ulisses - Lanceiro_3: 522125367
+      Ulisses - Lanceiro_4: -677651178
+      Ulisses - Lanceiro_5: 1570961485
+      Ulisses - Lanceiro_6: 421156097
+      Ulisses - Lanceiro_7: -1894189145
+      Ulisses - Lanceiro_8: -200359267
+      Ulisses - Lanceiro_9: -1403393371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
