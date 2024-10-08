@@ -1,4 +1,4 @@
-# Jogo 2D - Projeto de Computação Gráfica 2024.1
+# Jogo 2D Unity - Projeto de Computação Gráfica 2024.1
 
 Este é um projeto de jogo 2D desenvolvido na disciplina de Computação Gráfica, semestre 2024.1.
 
